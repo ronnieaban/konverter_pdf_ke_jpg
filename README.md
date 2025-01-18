@@ -1,4 +1,4 @@
-# PDF ke JPG Converter
+# Konverter PDF ke JPG
 
 Aplikasi Python untuk mengkonversi file PDF menjadi gambar JPG dengan kualitas tinggi.
 
