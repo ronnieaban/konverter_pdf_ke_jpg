@@ -59,11 +59,3 @@ Kontribusi untuk proyek ini sangat diterima. Berikut cara berkontribusi:
 3. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`)
 4. Push ke branch (`git push origin fitur-baru`)
 5. Buat Pull Request
-
-## Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
-## Kontak
-Untuk pertanyaan atau masukan, silakan hubungi:
-- Email: [alamat@email.com]
-- GitHub: [username_github]
